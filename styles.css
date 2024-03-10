@@ -1,13 +1,29 @@
 body {
     background-color: pink;
     color: white;
+    display: flex;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+    
 }
 
+
  .aboutme {
-    margin: 20px;
+    margin: 0px 0px 0px 20px;
     text-align: justify;
-    width: 300px;
+    width: 400px;
+    
+    
 }
+.container {
+    margin:0px 0px 0px 100px;
+}
+
+.james {
+    text-align: center;
+    margin: 200px 0px 0px 250px;;
+}
+
+
 
 a {
     color:white;
@@ -18,3 +34,20 @@ a {
 a:hover{
     color:rebeccapurple;
 }
+
+.other {
+    margin: 20px;
+    text-align: justify;
+    width: 400px;
+}
+.title {
+    display: flex;
+    
+}
+.header1{
+    width:345px;
+}
+
+
+ 
+
